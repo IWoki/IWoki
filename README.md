@@ -27,7 +27,7 @@
 
 ---
 
-#### [MultiplayerUltimateSnakeAttack]
+### MultiplayerUltimateSnakeAttack
 > *Соавторство компьютерных червей*
 
 Многопользовательская змейка с боссами, бонусами, магазином скинов и таблицей рекордов.
