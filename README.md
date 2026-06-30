@@ -36,13 +36,6 @@
 
 ---
 
-
-### [Статистика]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IWoki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### [Контакты]
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/I_Woki)
