@@ -16,16 +16,7 @@
 
 <img src= "assets/line.png" width="100%" alt="divider">
 
-## [Проекты]
-
-### CaveDreamsMod
-> *Попытка сделать мод*
-
-Мод для Minecraft (Fabric 1.20.1) - Тестовый мод для понимания как они вообще создаются. Добавляет 2 предмета и одного моба с уникальными механиками.
-
-[![cavedreams](https://img.shields.io/badge/repo-CaveDreamsMod-2d2d44?style=for-the-badge&logo=github)](https://github.com/IWoki/CaveDreamsMod)
-
----
+## [Активные проекты]
 
 ### MultiplayerUltimateSnakeAttack
 > *Соавторство компьютерных червей*
